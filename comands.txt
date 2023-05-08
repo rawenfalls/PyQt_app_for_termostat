@@ -1,0 +1,1 @@
+pyuic5 -x "Новая папка\untitled.ui" -o end_W.py
